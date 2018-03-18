@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513265246 source:c:\users\elhoussein\c projects\serie1ex2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"header.h"
+	"functions.h"
+	<string.h>
+
+1513265329 c:\users\elhoussein\c projects\serie1ex2\functions.h
+
+1513265351 c:\users\elhoussein\c projects\serie1ex2\header.h
+

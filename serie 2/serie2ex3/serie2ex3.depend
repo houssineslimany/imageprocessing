@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1515841268 source:c:\users\elhoussein\c projects\serie2ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1515843254 c:\users\elhoussein\c projects\serie2ex3\functions.h
+	<math.h>
+
